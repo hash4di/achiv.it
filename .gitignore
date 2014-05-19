@@ -4,3 +4,4 @@
 *.lk
 *.zip
 *.DS_Store
+log/*.*
